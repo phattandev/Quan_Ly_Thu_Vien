@@ -1,0 +1,14 @@
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\bin\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).exe
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\bin\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).deps.json
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\bin\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).runtimeconfig.json
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\bin\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).dll
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\bin\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).pdb
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\obj\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\obj\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).AssemblyInfoInputs.cache
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\obj\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).AssemblyInfo.cs
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\obj\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).csproj.CoreCompileInputs.cache
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\obj\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).dll
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\obj\Debug\net8.0\refint\Quan_Ly_Thu_Vien (Remake).dll
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\obj\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).pdb
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\obj\Debug\net8.0\Quan_Ly_Thu_Vien (Remake).genruntimeconfig.cache
+D:\OOP C_Sharp\Project 5 (Quản lý thư viện)\Quan_Ly_Thu_Vien (Remake)\Quan_Ly_Thu_Vien (Remake)\obj\Debug\net8.0\ref\Quan_Ly_Thu_Vien (Remake).dll
